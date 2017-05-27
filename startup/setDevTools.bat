@@ -1,0 +1,1 @@
+setx PYTHPNPATH "%mmDev%"

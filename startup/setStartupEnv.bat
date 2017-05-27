@@ -1,0 +1,11 @@
+setx mmTools  "%mmRoot%\tools"
+setx mmDev    "%mmRoot%\dev"
+setx mmShows  "%mmRoot%\shows"
+setx mmAssets "%mmRoot%\assets"
+setx mmShow   ""
+setx mmCat   ""
+setx mmAsset  ""
+setx mmShot   ""
+setx mmSeq    ""
+setx mmTask   ""
+
